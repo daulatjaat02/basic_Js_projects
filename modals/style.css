@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: auto;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+#header {
+  margin: 23px;
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: space-around;
+}
+.btn {
+  color: rgb(113, 113, 113);
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(116, 113, 113);
+  border-radius: 23px;
+  font-size: 1.3rem;
+  padding: 12px;
+}
+.btn:hover {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  color: black;
+  background-color: rgb(202, 198, 198);
+  border: 2px solid rgb(0, 0, 0);
+}
+.model {
+  display: flex;
+  background-color: aliceblue;
+  color: black;
+
+  flex-direction: column;
+}
