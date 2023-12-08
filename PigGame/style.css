@@ -22,7 +22,6 @@ main {
 }
 .player1 {
   border-top-right-radius: 15px;
-  background-color: #7f3d8d;
   border-bottom-right-radius: 15px;
 }
 section {
@@ -34,6 +33,7 @@ section {
   font-size: 2em;
   width: 30vw;
   height: auto;
+  background-color: #7f3d8d;
 }
 .player {
   min-height: 80vh;
