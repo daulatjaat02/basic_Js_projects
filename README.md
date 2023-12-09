@@ -10,3 +10,5 @@ Color Flipper : https://colorflipper.daulatjajra.repl.co/index.html
 Guess :https://guess.daulatjajra.repl.co/
 
 PigGame : https://piggame.daulatjajra.repl.co/
+
+Modals : https://modals.daulatjajra.repl.co/
