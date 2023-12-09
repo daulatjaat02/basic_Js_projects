@@ -12,3 +12,5 @@ Guess :https://guess.daulatjajra.repl.co/
 PigGame : https://piggame.daulatjajra.repl.co/
 
 Modals : https://modals.daulatjajra.repl.co/
+
+Simple Counter : https://simplecounter.daulatjajra.repl.co/
