@@ -14,3 +14,5 @@ PigGame : https://piggame.daulatjajra.repl.co/
 Modals : https://modals.daulatjajra.repl.co/
 
 Simple Counter : https://simplecounter.daulatjajra.repl.co/
+
+Dark_mode : https://darktheme.daulatjajra.repl.co/
